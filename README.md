@@ -3,7 +3,7 @@
 
 #### How to install
 ```
-$ go get github.com/yogawa/3g-data-import
+$ go get github.com/ndstech/3g-data-import
 ```
 
 
